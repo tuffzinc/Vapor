@@ -1,0 +1,12 @@
+:root {
+    --bg-dark: #12141c;        
+    --bg-nav: #1a1d26;         
+    --accent-blue: #4facfe;    
+    --accent-glow: rgba(79, 172, 254, 0.35);
+    --text-main: #d1d5db;      
+    --text-muted: #525866;     
+    --avatar-online: #00ff88;  
+
+    --header-height: 65px;
+    --footer-height: 35px;
+}
